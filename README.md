@@ -7,7 +7,7 @@
 - 🌱👨‍💻 I’m currently learning **Flask**
 
 <h3 align="left">📫Connect with me:</h3>
-**Hoomanlangrodi@gmail.com**
+Hoomanlangrodi@gmail.com
 <p align="left">
 </p>
 
