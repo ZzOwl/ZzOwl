@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋 I'm Hooman Langrodi</h1>
-<h3 align="center">A passionate Backend developer in Italy💬📄👨‍💻🛠️📱🖥️</h3>
+<h3 align="center">💬📄👨‍💻🛠️📱🖥️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzowl&label=Profile%20views&color=0e75b6&style=flat" alt="zzowl" /> </p>
 
 - 🔭 I’m currently developing an app ****Databar vpn****
-
 - 🌱👨‍💻 I’m currently learning **Flask**
 
-- 📫 How to reach me **Hoomanlangrodi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫Connect with me:</h3>
+**Hoomanlangrodi@gmail.com**
 <p align="left">
 </p>
 
