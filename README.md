@@ -7,10 +7,8 @@
 
 - 🔭 I’m currently working on developing an app **Databar vpn**
 
-- 📫 How to reach me **Hoomanlangrodi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p sdfghjk </p>
+<h3 align="left">📫Connect with me:
+Hoomanlangrodi@gmail.com </h3>
 <p align="left">
 </p>
 
