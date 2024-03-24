@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Hooman Langrodi</h1>
+<h1 align="center">Hey there 👋 I'm Hooman Langrodi</h1>
 <h3 align="center">👨‍💻🛠️</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzowl&label=Profile%20views&color=0e75b6&style=flat" alt="zzowl" /> </p>
-- 🌱👨‍💻 I’m currently learning **Django**
+- 👨‍💻 I’m currently learning **swift**
+- 🌱 I am trying a new path as an ios developer and decided to leave back-end for another time. So there wont be any pushes for a while :)
